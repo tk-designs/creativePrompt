@@ -5,7 +5,7 @@ body {
 
 
 #hero {
-    background-image: url("../images/hero.png");
+    background-image: url("hero.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
@@ -90,7 +90,7 @@ nav .hamburger {
 
 
 #adventure .adventure-card {
-background-image: url("../images/adventure-card.png");
+background-image: url("adventure-card.png");
 background-size:cover ;
 height:565px;
 display: flex;
@@ -137,7 +137,7 @@ h4 {
 
 #locations {
     padding:200px 0px 100px;
-    background-image:url("../images/hollywood.png");
+    background-image:url("hollywood.png");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -157,14 +157,14 @@ h4 {
     }
 
 .yosemite {
-        background-image: url(../images/yosemite-background.png);  
+        background-image: url(yosemite-background.png);  
 }
 
 .joshua {
-    background-image: url(../images/joshua-background.png);  
+    background-image: url(joshua-background.png);  
 }
 .sanfran {
-    background-image: url(../images/sf-background.png);  
+    background-image: url(sf-background.png);  
 }
 
 
@@ -195,7 +195,7 @@ h4 {
 
 #subscribe {
 
-    background-image: url("../images/sf-bridge.png");
+    background-image: url("sf-bridge.png");
 
     color:white;
     text-align: center;
